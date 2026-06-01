@@ -1,7 +1,9 @@
 ## Hi, I'm Tim👋
 - 🔭 I’m currently working on a password manager as my first GitHub project
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TWatchmen&layout=compact)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TWatchmen&cache_seconds=1)
+
+<br>
 
 <!--
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TWatchmen&theme=github)
